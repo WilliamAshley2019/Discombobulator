@@ -1,4 +1,4 @@
-My First DRM tool :) This is discombolator --- just load a .wav file and under a number only tested with 00000000 so far, and it will use that to seed a scrambling of the audio. 
+My First DRM tool :) This is discombobulator --- just load a .wav file and under a number only tested with 00000000 so far, and it will use that to seed a scrambling of the audio. 
 Click SCRAMBLE and save and it will save the "scrambled" wav file.    Then if you want to share that file with someone  just give them the number code to "unscramble it"
 On the flip side load the scrambled audio file and input the number and choose descramble and save, and it will revert the audio back to its original form :)
 
